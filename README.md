@@ -1,5 +1,7 @@
 # Widgets astro « Ce soir sous les étoiles »
 
+![Widgets Astro Alnitak – La Martyre](images/logo-widgets-astro-alnitak-la-martyre.webp)
+
 Un widget Android (KWGT, format 4×2) qui dit d'un coup d'œil si la nuit vaut la peine
 de sortir le télescope : note du ciel, meilleur créneau, nuit noire, Lune, nuages,
 stabilité de l'air. Fonctionne partout : seul le point d'observation est à régler.
