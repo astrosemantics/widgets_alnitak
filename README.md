@@ -137,7 +137,7 @@ Toute personne qui connaît le nom du sujet reçoit les alertes : le diffuser se
 
 ## Licences
 
-Données météo : Open-Meteo.com (CC BY 4.0).
-Étoiles, constellations et objets Messier : d3-celestial, © 2015 Olaf Frohn (licence BSD-3).
-Objets NGC : catalogue OpenNGC, M. Verga (CC BY-SA 4.0). Police Outfit : SIL Open Font License.
-Algorithmes : J. Meeus, *Astronomical Algorithms* (2e éd.).
+Données météo : Open-Meteo.com (CC BY 4.0).  
+Étoiles, constellations et objets Messier : d3-celestial, © 2015 Olaf Frohn (licence BSD-3).  
+Objets NGC : catalogue OpenNGC, M. Verga (CC BY-SA 4.0). Police Outfit : SIL Open Font License.  
+Algorithmes : J. Meeus, *Astronomical Algorithms* (2e éd.).  
