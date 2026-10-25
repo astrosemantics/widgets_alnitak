@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Widget Alnitak
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Daniel
+    family-names: Dubois
+    email: daniel@web-eau.net
+repository-code: 'https://github.com/astrosemantics/widgets_alnitak'
+abstract: >-
+  A set of Android widgets (KWGT, 4×2 format) that let you
+  see at a glance whether it’s worth bringing out your
+  telescope: sky rating, optimal viewing window, darkness
+  levels, Moon phase, cloud cover, atmospheric
+  stability—plus suggestions on what to observe and where to
+  look.
+
+  They work anywhere; you simply need to set your
+  observation location, and they can automatically track
+  your phone’s position as you move around.
+keywords:
+  - Android
+  - Widget
+  - Astronomy
+license: CC-BY-4.0
+version: 1.1.0
+date-released: '2026-10-24'
