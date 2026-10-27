@@ -2,6 +2,11 @@
 
 ![Widgets Astro Alnitak – La Martyre](images/logo-widgets-astro-alnitak-la-martyre.webp)
 
+---
+
+![Widget alnitak](images/widget-alnitak-jour.png) ![Widget alnitak](images/widget-alnitak-nuit.png)
+
+
 > **Version : Widget astro Alnitak V2** (octobre 2026) — testée et validée.
 
 Des widgets Android ([KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget), format 4×2)
