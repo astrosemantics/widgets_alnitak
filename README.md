@@ -4,7 +4,7 @@
 
 ---
 
-![Widget alnitak](images/widget-alnitak-jour.png) ![Widget alnitak](images/widget-alnitak-nuit.png)
+![Widget alnitak](images/widget-alnitak-jour.webp) ![Widget alnitak](images/widget-alnitak-nuit.webp)
 
 
 > **Version : Widget astro Alnitak V2** (octobre 2026) — testée et validée.
