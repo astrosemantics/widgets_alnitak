@@ -1,5 +1,8 @@
 # Widgets astro « Ce soir sous les étoiles »
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23856773.svg)](https://doi.org/10.5281/zenodo.23856773)
+[![Archived in Software Heritage](https://archive.softwareheritage.org/badge/origin/https://github.com/astrosemantics/widgets_alnitak/)](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/astrosemantics/widgets_alnitak)
+
 ![Widgets Astro Alnitak – La Martyre](images/logo-widgets-astro-alnitak-la-martyre.webp)
 
 ---
@@ -31,6 +34,7 @@ suivre la position du téléphone en déplacement.
 8. [Contenu du dossier](#contenu-du-dossier)
 9. [Précision et limites](#précision-et-limites)
 10. [Crédits et licences](#crédits-et-licences)
+11. [Citation et archivage](#citation-et-archivage)
 
 ---
 
@@ -285,3 +289,32 @@ envoyé à un instant donné, sans rien envoyer.
 | Police | [Outfit](https://fonts.google.com/specimen/Outfit) | [SIL Open Font License](https://openfontlicense.org) |
 | Algorithmes | J. Meeus, *Astronomical Algorithms* (2e éd.) | — |
 | Notifications | [ntfy](https://ntfy.sh) | — |
+
+---
+
+## Citation et archivage
+
+Les widgets astro « Ce soir sous les étoiles », développés par Daniel Dubois pour l’Astro-club Alnitak, disposent d’identifiants pérennes pour leur citation et la préservation de leur code source.
+
+### DOI Zenodo
+
+| Version | DOI |
+|---|---|
+| Toutes versions | [10.5281/zenodo.23856773](https://doi.org/10.5281/zenodo.23856773) |
+| v1.1.0 | [10.5281/zenodo.23856774](https://doi.org/10.5281/zenodo.23856774) |
+| v1.0.0 | À venir (dépôt rétrospectif prévu) |
+
+Pour citer le logiciel sans préciser de version, utiliser le DOI « Toutes versions ». Pour citer la version 1.1.0, utiliser son DOI spécifique.
+
+### Archivage Software Heritage
+
+Le dépôt Git a été archivé dans Software Heritage. Les SWHID suivants identifient les révisions correspondant aux tags Git :
+
+| Version | SWHID (révision) |
+|---|---|
+| v1.0.0 | [`swh:1:rev:97f5122bec67836912e45cbb444d93ef24c90375`](https://archive.softwareheritage.org/swh:1:rev:97f5122bec67836912e45cbb444d93ef24c90375/) |
+| v1.1.0 | [`swh:1:rev:7a6b32d493c3ca4ca8f307d42c4944da22f55abb`](https://archive.softwareheritage.org/swh:1:rev:7a6b32d493c3ca4ca8f307d42c4944da22f55abb/) |
+
+### Code source
+
+Dépôt : [astrosemantics/widgets_alnitak](https://github.com/astrosemantics/widgets_alnitak).
