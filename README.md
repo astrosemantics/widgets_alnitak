@@ -7,7 +7,7 @@
 ![Widget alnitak](images/widget-alnitak-jour.webp) ![Widget alnitak](images/widget-alnitak-nuit.webp) 
 
 
-> **Version : Widget astro Alnitak V2** (octobre 2026) — testée et validée.
+> **Version : Widget astro Alnitak v1.1.0** (octobre 2026) — testée et validée.
 
 Des widgets Android ([KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget), format 4×2)
 qui disent d'un coup d'œil si la nuit vaut la peine de sortir le télescope :
