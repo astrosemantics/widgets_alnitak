@@ -300,11 +300,11 @@ Les widgets astro « Ce soir sous les étoiles », développés par Daniel Duboi
 
 | Version | DOI |
 |---|---|
-| Toutes versions | [10.5281/zenodo.23856773](https://doi.org/10.5281/zenodo.23856773) |
+| Toutes versions (dépôt initial v1.1.0) | [10.5281/zenodo.23856773](https://doi.org/10.5281/zenodo.23856773) |
 | v1.1.0 | [10.5281/zenodo.23856774](https://doi.org/10.5281/zenodo.23856774) |
-| v1.0.0 | À venir (dépôt rétrospectif prévu) |
+| v1.0.0 | [10.5281/zenodo.23857434](https://doi.org/10.5281/zenodo.23857434) |
 
-Pour citer le logiciel sans préciser de version, utiliser le DOI « Toutes versions ». Pour citer la version 1.1.0, utiliser son DOI spécifique.
+Pour citer une version précise du logiciel, utiliser son DOI spécifique. Les versions 1.0.0 et 1.1.0 sont reliées dans les métadonnées Zenodo.
 
 ### Archivage Software Heritage
 
